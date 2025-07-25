@@ -12,11 +12,15 @@ cd EquivariantGraphTransformer
 pip install -r requirements.txt  
 ## 2.	Data Preparation:
 python download_rwa_data.py
+
 python preprocess.py
 ## 3.	Run Experiments:
 First, training step:
+
 nohup python train.py [parameters]
+
 or sh ./scripts/train_g2s.sh
+
 Then, run validate:
 Sh ./scrpits/validate.sh
 ## 4.	Hardware/Software Requirements
