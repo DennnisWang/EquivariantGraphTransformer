@@ -35,8 +35,12 @@ Dependencies: Exact versions pinned in requirements.txt
 # Citation
 ```
 @misc{
-      title={3D Geometric Deep Learning for Reaction Prediction with Equivariant Graph Transformer}, 
+      title={Three-dimensional geometric deep learning for reaction prediction with equivariant graph transformer}, 
       author={Zhouxiang Wang, Haicheng Yi, Zhuhong You and Qiangguo Jin},
-      year={2024},
+      journal={Engineering Applications of Artificial Intelligence},
+      publisher={Elsevier BV},
+      doi={https://doi.org/10.1016/j.engappai.2025.112850},
+      year={2026},
 }
 ```
+
